@@ -1,2 +1,4 @@
-# html-devleri
-Okulda verilen html ödevleri ve css ödevleri
+# html ve css ödevleri
+# içinde bulunduran ödevler okulda verilmiş ödevler.
+
+
