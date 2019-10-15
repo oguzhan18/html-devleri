@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>ÇART APP</title>
+	<style type="text/css">
+		H1
+		{
+		color:#fffdfd;
+		margin-left:40px;
+		}
+		.ana{ 
+			height:750px;
+			width:%100;
+			background-color:#4ec1b6;
+			margin-top:-25px;
+			margin-left:-9px; 
+			margin-right:-9px; 
+			}
+
+		.b_kutu{
+			margin-bottom:-1px;
+			margin-top:-1px;
+   			 float:left;
+   			 width:200px;
+   			 height:100px;
+  			  background-color:#6ab2e0;
+  			  margin-right: 0px;
+   			 margin-left: 40px;
+				}
+
+		.b_kutu1{
+				margin-bottom:-1px;
+				margin-top:-1px;
+			    float:left;
+			    width:200px;
+			    height:100px;
+			    background-color:#06619c;
+			    margin-right: -8px;
+			    margin-left: 10px;
+				}
+
+		.b_kutu2{
+			    margin-bottom:-1px;
+				margin-top:-1px;
+			    float:left;
+			    width:100px;
+			    height:100px;
+			    background-color:#93c8ef;
+			    margin-right: 20px;
+			    margin-left: 15px;
+				}
+
+		.b_kutu3{
+			    margin-bottom:-1px;
+				margin-top:-1px;
+			    float:left;
+			    width:100px;
+			    height:100px;
+			    background-color:#2eb505;
+			    margin-right: 10px;
+			    margin-left: -10px;
+				}
+				.b_kutu4{
+			    margin-bottom:-1px;
+				margin-top:-1px;
+			    float:left;
+			    width:100px;
+			    height:100px;
+			    background-color:#f3630a;
+			    margin-right: 30px;
+			    margin-left: 30px;
+				}
+		.c_kutu{
+			    margin-bottom:10px;
+				margin-top:10px;
+   				 float:left;
+   				 clear:both;
+   				 width:200px;
+   			 	height:100px;
+  			 	 background-color:#ce0ca6;
+  			 	 margin-right: 0px;
+   				 margin-left: 40px;
+				}
+		.c_kutu1{
+			    margin-bottom:10px;
+				margin-top:10px;
+   				 float:left;
+   				 width:200px;
+   			 	height:100px;
+  			 	 background-color:#cb540b;
+  			 	 margin-right: 0px;
+   				 margin-left: 10px;
+				}
+		.c_kutu2{
+			    margin-bottom:10px;
+				margin-top:10px;
+   				 float:left;
+   				 width:205px;
+   			 	height:100px;
+  			 	 background-color:#48bad9;
+  			 	 margin-right: 20px;
+   				 margin-left: 10px;
+				}
+		.c_kutu3{
+			    margin-bottom:10px;
+				margin-top:10px;
+			    float:left;
+			    width:100px;
+			    height:100px;
+			    background-color:#34abf4;
+			    margin-right: 20px;
+			    margin-left: 20px;
+				}
+		.d_kutu{
+			margin-bottom:-1px;
+			margin-top:-1px;
+   			 float:left;
+   			 width:200px;
+   			 height:100px;
+  			  background-color:#b74526;
+  			  margin-right: 0px;
+   			 margin-left: 40px;
+				}
+
+		.d_kutu1{
+				margin-bottom:-1px;
+				margin-top:-1px;
+			    float:left;
+			    width:200px;
+			    height:100px;
+			    background-color:#b8605d;
+			    margin-right: -8px;
+			    margin-left: 10px;
+				}
+
+		.d_kutu2{
+			    margin-bottom:-1px;
+				margin-top:-1px;
+			    float:left;
+			    width:100px;
+			    height:100px;
+			    background-color:#a0e859;
+			    margin-right: 20px;
+			    margin-left: 15px;
+				}
+
+		.d_kutu3{
+			    margin-bottom:-1px;
+				margin-top:-1px;
+			    float:left;
+			    width:100px;
+			    height:100px;
+			    background-color:#5f17a6;
+			    margin-right: 10px;
+			    margin-left: -10px;
+				}
+		.d_kutu4{
+			    margin-bottom:-1px;
+				margin-top:-1px;
+			    float:left;
+			    width:100px;
+			    height:100px;
+			    background-color:#80cc35;
+			    margin-right: 30px;
+			    margin-left: 30px;
+				}
+		.siyah_kutu
+		{
+			color:white;
+			clear:both;
+			float:left; 
+			width:411px;
+			height:100px;
+			background-color:black; 
+			margin-right: 20px;
+			margin-left: 39px;
+			margin-bottom:10px;
+			margin-top:10px;
+
+		}
+		.a
+		{
+			margin-left:120px;
+			margin-top: -20px;
+		}
+		
+		
+
+	</style>
+</head>
+<body>
+	<div class="ana">
+		<h1>START ÇART APP</h1>
+		<div class="b_kutu"></div>
+		<div class="b_kutu1"></div>
+		<div class="b_kutu2"></div>
+		<div class="b_kutu3"></div>
+		<div class="b_kutu4"></div>
+		<div class="c_kutu"></div>
+		<div class="c_kutu1"></div>
+		<div class="c_kutu2"></div>
+		<div class="c_kutu3"></div>
+		<div class="d_kutu"></div>
+		<div class="d_kutu1"></div>
+		<div class="d_kutu2"></div>
+		<div class="d_kutu3"></div>
+		<div class="d_kutu4"></div>
+		<div class="siyah_kutu">
+			<h1>11:56 Monday</h1>
+			<h2 class="a">Faburday 22</h2>
+		</div>
+	</div>
+</body>
+</html>
